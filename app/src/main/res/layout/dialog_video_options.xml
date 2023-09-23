@@ -1,0 +1,94 @@
+<?xml version="1.0" encoding="utf-8"?>
+<RelativeLayout xmlns:android="http://schemas.android.com/apk/res/android"
+    android:layout_width="match_parent"
+    android:layout_height="wrap_content"
+    android:background="#00000000"
+    android:paddingLeft="10dp"
+    android:paddingRight="10dp"
+    android:paddingTop="5dp">
+
+    <RelativeLayout
+        android:layout_width="match_parent"
+        android:layout_height="wrap_content"
+        android:padding="5dp"
+        android:background="@drawable/dialog_bg">
+
+
+
+        <TextView
+            android:padding="5dp"
+            android:id="@+id/play_queue"
+            android:layout_width="match_parent"
+            android:layout_height="wrap_content"
+            android:text="Play next in queue"
+            android:drawableStart="@drawable/baseline_playlist_add_24"
+            />
+        <TextView
+            android:id="@+id/save_to_later"
+            android:layout_below="@id/play_queue"
+            android:padding="5dp"
+            android:layout_width="match_parent"
+            android:layout_height="wrap_content"
+            android:text="Save to Watch Later"
+            android:drawableStart="@drawable/baseline_access_time_24"
+            />
+        <TextView
+            android:id="@+id/playlist"
+            android:layout_below="@+id/save_to_later"
+            android:padding="5dp"
+            android:layout_width="match_parent"
+            android:layout_height="wrap_content"
+            android:text="Save to playlist"
+            android:drawableStart="@drawable/outline_library_add_24"
+            />
+        <TextView
+            android:id="@+id/download_video"
+            android:layout_below="@+id/playlist"
+            android:padding="5dp"
+            android:layout_width="match_parent"
+            android:layout_height="wrap_content"
+            android:text="Download video"
+            android:drawableStart="@drawable/baseline_download_24"
+            />
+        <TextView
+            android:id="@+id/share"
+            android:layout_below="@+id/download_video"
+            android:padding="5dp"
+            android:layout_width="match_parent"
+            android:layout_height="wrap_content"
+            android:text="Share"
+            android:drawableStart="@drawable/outline_share_24"
+            />
+        <TextView
+            android:id="@+id/not_interested"
+            android:layout_below="@+id/share"
+            android:padding="5dp"
+            android:layout_width="match_parent"
+            android:layout_height="wrap_content"
+            android:text="Not interested"
+            android:drawableStart="@drawable/baseline_block_24"
+            />
+        <TextView
+            android:id="@+id/recommend"
+            android:layout_below="@+id/not_interested"
+            android:padding="5dp"
+            android:layout_width="match_parent"
+            android:layout_height="wrap_content"
+            android:text="Don't recommend channel"
+            android:drawableStart="@drawable/baseline_no_accounts_24"
+            />
+        <TextView
+            android:id="@+id/report"
+            android:padding="5dp"
+            android:layout_width="match_parent"
+            android:layout_height="wrap_content"
+            android:text="Report"
+            android:drawableStart="@drawable/baseline_outlined_flag_24"
+            android:layout_below="@+id/recommend"
+            />
+
+
+
+    </RelativeLayout>
+
+</RelativeLayout>

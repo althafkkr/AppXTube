@@ -1,0 +1,1706 @@
+{
+  "kind": "youtube#searchListResponse",
+  "etag": "o4V9U0BUZBTR79pa_-UgdCDt3ig",
+  "nextPageToken": "CDIQAA",
+  "regionCode": "IN",
+  "pageInfo": {
+    "totalResults": 244,
+    "resultsPerPage": 50
+  },
+  "items": [
+    {
+      "kind": "youtube#searchResult",
+      "etag": "qb8LW9NxJ2ZrEikINSEv6mykYBA",
+      "id": {
+        "kind": "youtube#video",
+        "videoId": "UllM0EfiTVY"
+      },
+      "snippet": {
+        "publishedAt": "2018-12-21T20:39:39Z",
+        "channelId": "UCVMWWQ985A_-SESZUy_SsVQ",
+        "title": "Faisal Hills - Development Update - Dec 14th 2018",
+        "description": "This is a way that will lead to Faisal Hills, touching A Block from Faisal Margalla City (FMC). Video sent by one of contacts. For any ...",
+        "thumbnails": {
+          "default": {
+            "url": "https://i.ytimg.com/vi/UllM0EfiTVY/default.jpg",
+            "width": 120,
+            "height": 90
+          },
+          "medium": {
+            "url": "https://i.ytimg.com/vi/UllM0EfiTVY/mqdefault.jpg",
+            "width": 320,
+            "height": 180
+          },
+          "high": {
+            "url": "https://i.ytimg.com/vi/UllM0EfiTVY/hqdefault.jpg",
+            "width": 480,
+            "height": 360
+          }
+        },
+        "channelTitle": "Realtor Islamabad",
+        "liveBroadcastContent": "none",
+        "publishTime": "2018-12-21T20:39:39Z"
+      }
+    },
+    {
+      "kind": "youtube#searchResult",
+      "etag": "gPYkqMe7_rddat_vQ9LiIz5B4rY",
+      "id": {
+        "kind": "youtube#playlist",
+        "playlistId": "PLeC_AsVhxbD-bVPbV4s1gU1oKPyMR6on1"
+      },
+      "snippet": {
+        "publishedAt": "2019-08-22T21:53:26Z",
+        "channelId": "UCVMWWQ985A_-SESZUy_SsVQ",
+        "title": "Songs",
+        "description": "",
+        "thumbnails": {
+          "default": {
+            "url": "https://i.ytimg.com/vi/3ZFEdyFe3RI/default.jpg",
+            "width": 120,
+            "height": 90
+          },
+          "medium": {
+            "url": "https://i.ytimg.com/vi/3ZFEdyFe3RI/mqdefault.jpg",
+            "width": 320,
+            "height": 180
+          },
+          "high": {
+            "url": "https://i.ytimg.com/vi/3ZFEdyFe3RI/hqdefault.jpg",
+            "width": 480,
+            "height": 360
+          }
+        },
+        "channelTitle": "Realtor Islamabad",
+        "liveBroadcastContent": "none",
+        "publishTime": "2019-08-22T21:53:26Z"
+      }
+    },
+    {
+      "kind": "youtube#searchResult",
+      "etag": "QKDgWcVg-Qo_TqI3YT4ZS-pyx-0",
+      "id": {
+        "kind": "youtube#playlist",
+        "playlistId": "PLeC_AsVhxbD-LdQ0wqgXIrg_Qil4YDrBS"
+      },
+      "snippet": {
+        "publishedAt": "2019-08-22T21:55:28Z",
+        "channelId": "UCVMWWQ985A_-SESZUy_SsVQ",
+        "title": "Travel &amp; Chil",
+        "description": "",
+        "thumbnails": {
+          "default": {
+            "url": "https://i.ytimg.com/vi/zJQr1v6njNo/default.jpg",
+            "width": 120,
+            "height": 90
+          },
+          "medium": {
+            "url": "https://i.ytimg.com/vi/zJQr1v6njNo/mqdefault.jpg",
+            "width": 320,
+            "height": 180
+          },
+          "high": {
+            "url": "https://i.ytimg.com/vi/zJQr1v6njNo/hqdefault.jpg",
+            "width": 480,
+            "height": 360
+          }
+        },
+        "channelTitle": "Realtor Islamabad",
+        "liveBroadcastContent": "none",
+        "publishTime": "2019-08-22T21:55:28Z"
+      }
+    },
+    {
+      "kind": "youtube#searchResult",
+      "etag": "mkDqrpI8pCjMf-wGb0yAm0pA4f8",
+      "id": {
+        "kind": "youtube#video",
+        "videoId": "tfqCXkpyebY"
+      },
+      "snippet": {
+        "publishedAt": "2019-04-01T18:06:49Z",
+        "channelId": "UCVMWWQ985A_-SESZUy_SsVQ",
+        "title": "F Block, B17 (November 2018)",
+        "description": "",
+        "thumbnails": {
+          "default": {
+            "url": "https://i.ytimg.com/vi/tfqCXkpyebY/default.jpg",
+            "width": 120,
+            "height": 90
+          },
+          "medium": {
+            "url": "https://i.ytimg.com/vi/tfqCXkpyebY/mqdefault.jpg",
+            "width": 320,
+            "height": 180
+          },
+          "high": {
+            "url": "https://i.ytimg.com/vi/tfqCXkpyebY/hqdefault.jpg",
+            "width": 480,
+            "height": 360
+          }
+        },
+        "channelTitle": "Realtor Islamabad",
+        "liveBroadcastContent": "none",
+        "publishTime": "2019-04-01T18:06:49Z"
+      }
+    },
+    {
+      "kind": "youtube#searchResult",
+      "etag": "xSzNWjZitnutMlY3oPoKOUnkkwk",
+      "id": {
+        "kind": "youtube#video",
+        "videoId": "t5ps6o-tCl4"
+      },
+      "snippet": {
+        "publishedAt": "2018-12-12T17:50:20Z",
+        "channelId": "UCVMWWQ985A_-SESZUy_SsVQ",
+        "title": "Multi Gardens B-17 Islamabad - Ariel View &quot;Block C-1&quot; &amp; &quot;Block E&quot; - November 2018",
+        "description": "Arial view of partial \"Block C-1\" & \"Block E\". For any queries, contact: 0336-5371382 Video Courtesy: Arshad S ...",
+        "thumbnails": {
+          "default": {
+            "url": "https://i.ytimg.com/vi/t5ps6o-tCl4/default.jpg",
+            "width": 120,
+            "height": 90
+          },
+          "medium": {
+            "url": "https://i.ytimg.com/vi/t5ps6o-tCl4/mqdefault.jpg",
+            "width": 320,
+            "height": 180
+          },
+          "high": {
+            "url": "https://i.ytimg.com/vi/t5ps6o-tCl4/hqdefault.jpg",
+            "width": 480,
+            "height": 360
+          }
+        },
+        "channelTitle": "Realtor Islamabad",
+        "liveBroadcastContent": "none",
+        "publishTime": "2018-12-12T17:50:20Z"
+      }
+    },
+    {
+      "kind": "youtube#searchResult",
+      "etag": "36bUb1ewASlQpWul3Ie-Fc841XA",
+      "id": {
+        "kind": "youtube#video",
+        "videoId": "KHLEGljyF6o"
+      },
+      "snippet": {
+        "publishedAt": "2018-11-11T15:45:02Z",
+        "channelId": "UCVMWWQ985A_-SESZUy_SsVQ",
+        "title": "3. Development Status - Nov 11, 2018 - Faisal Margalla City",
+        "description": "Development status of Faisal Margalla City (FMC) on November 11th 2018. For info, please feel free to call on: 0336-5371382.",
+        "thumbnails": {
+          "default": {
+            "url": "https://i.ytimg.com/vi/KHLEGljyF6o/default.jpg",
+            "width": 120,
+            "height": 90
+          },
+          "medium": {
+            "url": "https://i.ytimg.com/vi/KHLEGljyF6o/mqdefault.jpg",
+            "width": 320,
+            "height": 180
+          },
+          "high": {
+            "url": "https://i.ytimg.com/vi/KHLEGljyF6o/hqdefault.jpg",
+            "width": 480,
+            "height": 360
+          }
+        },
+        "channelTitle": "Realtor Islamabad",
+        "liveBroadcastContent": "none",
+        "publishTime": "2018-11-11T15:45:02Z"
+      }
+    },
+    {
+      "kind": "youtube#searchResult",
+      "etag": "QzyZbi6LxRJjIsocYxOC82e9BMY",
+      "id": {
+        "kind": "youtube#video",
+        "videoId": "tunAzaiOFos"
+      },
+      "snippet": {
+        "publishedAt": "2019-05-19T19:18:58Z",
+        "channelId": "UCVMWWQ985A_-SESZUy_SsVQ",
+        "title": "Faisal Hills - Site Visit 19th May 2019",
+        "description": "",
+        "thumbnails": {
+          "default": {
+            "url": "https://i.ytimg.com/vi/tunAzaiOFos/default.jpg",
+            "width": 120,
+            "height": 90
+          },
+          "medium": {
+            "url": "https://i.ytimg.com/vi/tunAzaiOFos/mqdefault.jpg",
+            "width": 320,
+            "height": 180
+          },
+          "high": {
+            "url": "https://i.ytimg.com/vi/tunAzaiOFos/hqdefault.jpg",
+            "width": 480,
+            "height": 360
+          }
+        },
+        "channelTitle": "Realtor Islamabad",
+        "liveBroadcastContent": "none",
+        "publishTime": "2019-05-19T19:18:58Z"
+      }
+    },
+    {
+      "kind": "youtube#searchResult",
+      "etag": "CP54Kapi9bZcE4wJJYqyDCW2iM4",
+      "id": {
+        "kind": "youtube#channel",
+        "channelId": "UCVMWWQ985A_-SESZUy_SsVQ"
+      },
+      "snippet": {
+        "publishedAt": "2018-09-17T04:06:43Z",
+        "channelId": "UCVMWWQ985A_-SESZUy_SsVQ",
+        "title": "Realtor Islamabad",
+        "description": "We welcome you to view our channel for updates on several projects in Twin Cities including: Capital Smart City, MPCHS B-17, ...",
+        "thumbnails": {
+          "default": {
+            "url": "https://yt3.ggpht.com/ytc/AOPolaTuJWqJ0J_cXU1xrOzPtYgu6pcncHJxAOuKaNAd=s88-c-k-c0xffffffff-no-rj-mo"
+          },
+          "medium": {
+            "url": "https://yt3.ggpht.com/ytc/AOPolaTuJWqJ0J_cXU1xrOzPtYgu6pcncHJxAOuKaNAd=s240-c-k-c0xffffffff-no-rj-mo"
+          },
+          "high": {
+            "url": "https://yt3.ggpht.com/ytc/AOPolaTuJWqJ0J_cXU1xrOzPtYgu6pcncHJxAOuKaNAd=s800-c-k-c0xffffffff-no-rj-mo"
+          }
+        },
+        "channelTitle": "Realtor Islamabad",
+        "liveBroadcastContent": "upcoming",
+        "publishTime": "2018-09-17T04:06:43Z"
+      }
+    },
+    {
+      "kind": "youtube#searchResult",
+      "etag": "pCFRc2aZ0JY0puWT3pwLsNGjW7Q",
+      "id": {
+        "kind": "youtube#video",
+        "videoId": "E3iG7VEV1vs"
+      },
+      "snippet": {
+        "publishedAt": "2018-10-17T06:28:04Z",
+        "channelId": "UCVMWWQ985A_-SESZUy_SsVQ",
+        "title": "3. Capital Smart City - Oct 16th 2018",
+        "description": "Location of Video 2 is ahead of Video 1 location. This Video is taken while coming back from Video 1 location towards main ...",
+        "thumbnails": {
+          "default": {
+            "url": "https://i.ytimg.com/vi/E3iG7VEV1vs/default.jpg",
+            "width": 120,
+            "height": 90
+          },
+          "medium": {
+            "url": "https://i.ytimg.com/vi/E3iG7VEV1vs/mqdefault.jpg",
+            "width": 320,
+            "height": 180
+          },
+          "high": {
+            "url": "https://i.ytimg.com/vi/E3iG7VEV1vs/hqdefault.jpg",
+            "width": 480,
+            "height": 360
+          }
+        },
+        "channelTitle": "Realtor Islamabad",
+        "liveBroadcastContent": "none",
+        "publishTime": "2018-10-17T06:28:04Z"
+      }
+    },
+    {
+      "kind": "youtube#searchResult",
+      "etag": "ZvbUETAoUr2YJloLp_qEwMMz634",
+      "id": {
+        "kind": "youtube#video",
+        "videoId": "YP6ba1CO4Dk"
+      },
+      "snippet": {
+        "publishedAt": "2021-08-04T17:12:07Z",
+        "channelId": "UCVMWWQ985A_-SESZUy_SsVQ",
+        "title": "Signature Hotels &amp; Residencia || Main Kashmir Highway, Top Location @ Top City, Islamabad",
+        "description": "",
+        "thumbnails": {
+          "default": {
+            "url": "https://i.ytimg.com/vi/YP6ba1CO4Dk/default.jpg",
+            "width": 120,
+            "height": 90
+          },
+          "medium": {
+            "url": "https://i.ytimg.com/vi/YP6ba1CO4Dk/mqdefault.jpg",
+            "width": 320,
+            "height": 180
+          },
+          "high": {
+            "url": "https://i.ytimg.com/vi/YP6ba1CO4Dk/hqdefault.jpg",
+            "width": 480,
+            "height": 360
+          }
+        },
+        "channelTitle": "Realtor Islamabad",
+        "liveBroadcastContent": "none",
+        "publishTime": "2021-08-04T17:12:07Z"
+      }
+    },
+    {
+      "kind": "youtube#searchResult",
+      "etag": "1Q6E0OwzcaDSKvJ_z41ScgKPNV4",
+      "id": {
+        "kind": "youtube#video",
+        "videoId": "QIX25ya8QBU"
+      },
+      "snippet": {
+        "publishedAt": "2019-04-13T21:08:22Z",
+        "channelId": "UCVMWWQ985A_-SESZUy_SsVQ",
+        "title": "Arial View of recent Development - Capital Smart City",
+        "description": "",
+        "thumbnails": {
+          "default": {
+            "url": "https://i.ytimg.com/vi/QIX25ya8QBU/default.jpg",
+            "width": 120,
+            "height": 90
+          },
+          "medium": {
+            "url": "https://i.ytimg.com/vi/QIX25ya8QBU/mqdefault.jpg",
+            "width": 320,
+            "height": 180
+          },
+          "high": {
+            "url": "https://i.ytimg.com/vi/QIX25ya8QBU/hqdefault.jpg",
+            "width": 480,
+            "height": 360
+          }
+        },
+        "channelTitle": "Realtor Islamabad",
+        "liveBroadcastContent": "none",
+        "publishTime": "2019-04-13T21:08:22Z"
+      }
+    },
+    {
+      "kind": "youtube#searchResult",
+      "etag": "aicV4xwUyjHw4JjsE-9VeuCqlV8",
+      "id": {
+        "kind": "youtube#video",
+        "videoId": "dJ9I_UrjP8s"
+      },
+      "snippet": {
+        "publishedAt": "2019-04-28T14:00:14Z",
+        "channelId": "UCVMWWQ985A_-SESZUy_SsVQ",
+        "title": "Capital Smart City - Development Update - April 27th 2019",
+        "description": "Here is video showing quantum of work done so far in Capital Smart City. 3 more sites where work is under way including ...",
+        "thumbnails": {
+          "default": {
+            "url": "https://i.ytimg.com/vi/dJ9I_UrjP8s/default.jpg",
+            "width": 120,
+            "height": 90
+          },
+          "medium": {
+            "url": "https://i.ytimg.com/vi/dJ9I_UrjP8s/mqdefault.jpg",
+            "width": 320,
+            "height": 180
+          },
+          "high": {
+            "url": "https://i.ytimg.com/vi/dJ9I_UrjP8s/hqdefault.jpg",
+            "width": 480,
+            "height": 360
+          }
+        },
+        "channelTitle": "Realtor Islamabad",
+        "liveBroadcastContent": "none",
+        "publishTime": "2019-04-28T14:00:14Z"
+      }
+    },
+    {
+      "kind": "youtube#searchResult",
+      "etag": "tU4AInqYqLE4QJMTWyLIBTGKmio",
+      "id": {
+        "kind": "youtube#video",
+        "videoId": "xb4AALVj7Mo"
+      },
+      "snippet": {
+        "publishedAt": "2019-04-06T22:58:19Z",
+        "channelId": "UCVMWWQ985A_-SESZUy_SsVQ",
+        "title": "Blue World City - April 5th 2019",
+        "description": "CEO Saad Nazir along with delegate of Chinese Investors, visited the site. In drone footage, development at site is visible.",
+        "thumbnails": {
+          "default": {
+            "url": "https://i.ytimg.com/vi/xb4AALVj7Mo/default.jpg",
+            "width": 120,
+            "height": 90
+          },
+          "medium": {
+            "url": "https://i.ytimg.com/vi/xb4AALVj7Mo/mqdefault.jpg",
+            "width": 320,
+            "height": 180
+          },
+          "high": {
+            "url": "https://i.ytimg.com/vi/xb4AALVj7Mo/hqdefault.jpg",
+            "width": 480,
+            "height": 360
+          }
+        },
+        "channelTitle": "Realtor Islamabad",
+        "liveBroadcastContent": "none",
+        "publishTime": "2019-04-06T22:58:19Z"
+      }
+    },
+    {
+      "kind": "youtube#searchResult",
+      "etag": "ciDPIN0xA7ebAUlUpweyijXceno",
+      "id": {
+        "kind": "youtube#video",
+        "videoId": "ud8tc44-8p0"
+      },
+      "snippet": {
+        "publishedAt": "2019-06-02T00:41:23Z",
+        "channelId": "UCVMWWQ985A_-SESZUy_SsVQ",
+        "title": "Project Briefing &amp; Update - Capital Smart City",
+        "description": "For any info or bookings: 0336-5371382.",
+        "thumbnails": {
+          "default": {
+            "url": "https://i.ytimg.com/vi/ud8tc44-8p0/default.jpg",
+            "width": 120,
+            "height": 90
+          },
+          "medium": {
+            "url": "https://i.ytimg.com/vi/ud8tc44-8p0/mqdefault.jpg",
+            "width": 320,
+            "height": 180
+          },
+          "high": {
+            "url": "https://i.ytimg.com/vi/ud8tc44-8p0/hqdefault.jpg",
+            "width": 480,
+            "height": 360
+          }
+        },
+        "channelTitle": "Realtor Islamabad",
+        "liveBroadcastContent": "none",
+        "publishTime": "2019-06-02T00:41:23Z"
+      }
+    },
+    {
+      "kind": "youtube#searchResult",
+      "etag": "Oh4oo-AN-qTftYqgJqqmm2mM374",
+      "id": {
+        "kind": "youtube#video",
+        "videoId": "-gLLf7EhcA4"
+      },
+      "snippet": {
+        "publishedAt": "2019-11-02T00:29:16Z",
+        "channelId": "UCVMWWQ985A_-SESZUy_SsVQ",
+        "title": "Capital Smart City || The Smart Villas",
+        "description": "FDHL has launched Villas in Overseas 1 & Executive Blocks with options of: 5, 7, 10, 12, 20 & 40 Marlas with 3-Year Payment ...",
+        "thumbnails": {
+          "default": {
+            "url": "https://i.ytimg.com/vi/-gLLf7EhcA4/default.jpg",
+            "width": 120,
+            "height": 90
+          },
+          "medium": {
+            "url": "https://i.ytimg.com/vi/-gLLf7EhcA4/mqdefault.jpg",
+            "width": 320,
+            "height": 180
+          },
+          "high": {
+            "url": "https://i.ytimg.com/vi/-gLLf7EhcA4/hqdefault.jpg",
+            "width": 480,
+            "height": 360
+          }
+        },
+        "channelTitle": "Realtor Islamabad",
+        "liveBroadcastContent": "none",
+        "publishTime": "2019-11-02T00:29:16Z"
+      }
+    },
+    {
+      "kind": "youtube#searchResult",
+      "etag": "3sIRMei1TVSruIH8Pag5jzuvAQU",
+      "id": {
+        "kind": "youtube#video",
+        "videoId": "J0cwhBz2tVI"
+      },
+      "snippet": {
+        "publishedAt": "2019-04-12T21:11:35Z",
+        "channelId": "UCVMWWQ985A_-SESZUy_SsVQ",
+        "title": "Capital Smart City - Development Update - April 12th 2019",
+        "description": "Here is development update of Capital Smart City. Development is happening at fast pace at 4 different sites including General ...",
+        "thumbnails": {
+          "default": {
+            "url": "https://i.ytimg.com/vi/J0cwhBz2tVI/default.jpg",
+            "width": 120,
+            "height": 90
+          },
+          "medium": {
+            "url": "https://i.ytimg.com/vi/J0cwhBz2tVI/mqdefault.jpg",
+            "width": 320,
+            "height": 180
+          },
+          "high": {
+            "url": "https://i.ytimg.com/vi/J0cwhBz2tVI/hqdefault.jpg",
+            "width": 480,
+            "height": 360
+          }
+        },
+        "channelTitle": "Realtor Islamabad",
+        "liveBroadcastContent": "none",
+        "publishTime": "2019-04-12T21:11:35Z"
+      }
+    },
+    {
+      "kind": "youtube#searchResult",
+      "etag": "PiUAbx6kwDVKyz0NEE7rGf8Tpa8",
+      "id": {
+        "kind": "youtube#video",
+        "videoId": "PpDHyxQcTxc"
+      },
+      "snippet": {
+        "publishedAt": "2019-05-13T20:44:15Z",
+        "channelId": "UCVMWWQ985A_-SESZUy_SsVQ",
+        "title": "Blue World City - Development Update (May 8 &amp; 9, 2019)",
+        "description": "",
+        "thumbnails": {
+          "default": {
+            "url": "https://i.ytimg.com/vi/PpDHyxQcTxc/default.jpg",
+            "width": 120,
+            "height": 90
+          },
+          "medium": {
+            "url": "https://i.ytimg.com/vi/PpDHyxQcTxc/mqdefault.jpg",
+            "width": 320,
+            "height": 180
+          },
+          "high": {
+            "url": "https://i.ytimg.com/vi/PpDHyxQcTxc/hqdefault.jpg",
+            "width": 480,
+            "height": 360
+          }
+        },
+        "channelTitle": "Realtor Islamabad",
+        "liveBroadcastContent": "none",
+        "publishTime": "2019-05-13T20:44:15Z"
+      }
+    },
+    {
+      "kind": "youtube#searchResult",
+      "etag": "NLU6O5_Koo5aM2F6IKYJ1tqaHo4",
+      "id": {
+        "kind": "youtube#video",
+        "videoId": "1PUgIgKEfug"
+      },
+      "snippet": {
+        "publishedAt": "2019-02-05T20:25:48Z",
+        "channelId": "UCVMWWQ985A_-SESZUy_SsVQ",
+        "title": "Capital Smart City - Road Networks &amp; Phasing Plan",
+        "description": "Please review video and feel free to discuss any query. 0336-5371-382.",
+        "thumbnails": {
+          "default": {
+            "url": "https://i.ytimg.com/vi/1PUgIgKEfug/default.jpg",
+            "width": 120,
+            "height": 90
+          },
+          "medium": {
+            "url": "https://i.ytimg.com/vi/1PUgIgKEfug/mqdefault.jpg",
+            "width": 320,
+            "height": 180
+          },
+          "high": {
+            "url": "https://i.ytimg.com/vi/1PUgIgKEfug/hqdefault.jpg",
+            "width": 480,
+            "height": 360
+          }
+        },
+        "channelTitle": "Realtor Islamabad",
+        "liveBroadcastContent": "none",
+        "publishTime": "2019-02-05T20:25:48Z"
+      }
+    },
+    {
+      "kind": "youtube#searchResult",
+      "etag": "IW2ZHwwp4p3aPlMYAPw6K_Qfq04",
+      "id": {
+        "kind": "youtube#video",
+        "videoId": "XLtRHl-YeF8"
+      },
+      "snippet": {
+        "publishedAt": "2019-03-26T20:55:38Z",
+        "channelId": "UCVMWWQ985A_-SESZUy_SsVQ",
+        "title": "Blue World City - Development Updates - March 26th 2019",
+        "description": "Development on site can be seen and we expect management to deliver project in given time frame. Planning Permission ...",
+        "thumbnails": {
+          "default": {
+            "url": "https://i.ytimg.com/vi/XLtRHl-YeF8/default.jpg",
+            "width": 120,
+            "height": 90
+          },
+          "medium": {
+            "url": "https://i.ytimg.com/vi/XLtRHl-YeF8/mqdefault.jpg",
+            "width": 320,
+            "height": 180
+          },
+          "high": {
+            "url": "https://i.ytimg.com/vi/XLtRHl-YeF8/hqdefault.jpg",
+            "width": 480,
+            "height": 360
+          }
+        },
+        "channelTitle": "Realtor Islamabad",
+        "liveBroadcastContent": "none",
+        "publishTime": "2019-03-26T20:55:38Z"
+      }
+    },
+    {
+      "kind": "youtube#searchResult",
+      "etag": "pxKknOyZhBqIqR77bmPdSp4ZyHg",
+      "id": {
+        "kind": "youtube#video",
+        "videoId": "cB-xhoVT9Dk"
+      },
+      "snippet": {
+        "publishedAt": "2019-10-21T21:50:38Z",
+        "channelId": "UCVMWWQ985A_-SESZUy_SsVQ",
+        "title": "Faisal Hills, Taxila || Development Updates || Oct 20, 2019",
+        "description": "فیصل ھلز، ٹیکسلا ایک منفرد اور بہترین پروجیکٹ ہے۔ بلاک A, B اور C میں فائلز ریسیل میں اویلیبل ہین۔ 25x50 30x30 35x70 ...",
+        "thumbnails": {
+          "default": {
+            "url": "https://i.ytimg.com/vi/cB-xhoVT9Dk/default.jpg",
+            "width": 120,
+            "height": 90
+          },
+          "medium": {
+            "url": "https://i.ytimg.com/vi/cB-xhoVT9Dk/mqdefault.jpg",
+            "width": 320,
+            "height": 180
+          },
+          "high": {
+            "url": "https://i.ytimg.com/vi/cB-xhoVT9Dk/hqdefault.jpg",
+            "width": 480,
+            "height": 360
+          }
+        },
+        "channelTitle": "Realtor Islamabad",
+        "liveBroadcastContent": "none",
+        "publishTime": "2019-10-21T21:50:38Z"
+      }
+    },
+    {
+      "kind": "youtube#searchResult",
+      "etag": "3U5z-yJ5cfKlGINvCwsxIph-0DY",
+      "id": {
+        "kind": "youtube#video",
+        "videoId": "fUdnsv5RDGQ"
+      },
+      "snippet": {
+        "publishedAt": "2020-03-15T08:26:40Z",
+        "channelId": "UCVMWWQ985A_-SESZUy_SsVQ",
+        "title": "First Batching Plant Commissioned at Blue World City",
+        "description": "First Batching Plant Commissioned at Blue World City in first week of March 2020 by CEO Mr. Saad Nazeer to cater Development ...",
+        "thumbnails": {
+          "default": {
+            "url": "https://i.ytimg.com/vi/fUdnsv5RDGQ/default.jpg",
+            "width": 120,
+            "height": 90
+          },
+          "medium": {
+            "url": "https://i.ytimg.com/vi/fUdnsv5RDGQ/mqdefault.jpg",
+            "width": 320,
+            "height": 180
+          },
+          "high": {
+            "url": "https://i.ytimg.com/vi/fUdnsv5RDGQ/hqdefault.jpg",
+            "width": 480,
+            "height": 360
+          }
+        },
+        "channelTitle": "Realtor Islamabad",
+        "liveBroadcastContent": "none",
+        "publishTime": "2020-03-15T08:26:40Z"
+      }
+    },
+    {
+      "kind": "youtube#searchResult",
+      "etag": "U3QUnaJZAeBhOaCpFVRhhz6bRGA",
+      "id": {
+        "kind": "youtube#video",
+        "videoId": "mQrYK1AhkfI"
+      },
+      "snippet": {
+        "publishedAt": "2019-08-23T14:22:00Z",
+        "channelId": "UCVMWWQ985A_-SESZUy_SsVQ",
+        "title": "Capital Smart City || Heavy Equipment || August 12, 2019",
+        "description": "Alhumdullilah! HRL has deployed 450 Nos Heavy Equipment & Machinery at site to complete development in given timeframe.",
+        "thumbnails": {
+          "default": {
+            "url": "https://i.ytimg.com/vi/mQrYK1AhkfI/default.jpg",
+            "width": 120,
+            "height": 90
+          },
+          "medium": {
+            "url": "https://i.ytimg.com/vi/mQrYK1AhkfI/mqdefault.jpg",
+            "width": 320,
+            "height": 180
+          },
+          "high": {
+            "url": "https://i.ytimg.com/vi/mQrYK1AhkfI/hqdefault.jpg",
+            "width": 480,
+            "height": 360
+          }
+        },
+        "channelTitle": "Realtor Islamabad",
+        "liveBroadcastContent": "none",
+        "publishTime": "2019-08-23T14:22:00Z"
+      }
+    },
+    {
+      "kind": "youtube#searchResult",
+      "etag": "H9pf7Km1y1zdQwFgcVGWT4ym4Xg",
+      "id": {
+        "kind": "youtube#video",
+        "videoId": "yD-q4BB3pmU"
+      },
+      "snippet": {
+        "publishedAt": "2019-04-02T20:47:37Z",
+        "channelId": "UCVMWWQ985A_-SESZUy_SsVQ",
+        "title": "Capital Smart City - Development Status - April 2nd 2019",
+        "description": "",
+        "thumbnails": {
+          "default": {
+            "url": "https://i.ytimg.com/vi/yD-q4BB3pmU/default.jpg",
+            "width": 120,
+            "height": 90
+          },
+          "medium": {
+            "url": "https://i.ytimg.com/vi/yD-q4BB3pmU/mqdefault.jpg",
+            "width": 320,
+            "height": 180
+          },
+          "high": {
+            "url": "https://i.ytimg.com/vi/yD-q4BB3pmU/hqdefault.jpg",
+            "width": 480,
+            "height": 360
+          }
+        },
+        "channelTitle": "Realtor Islamabad",
+        "liveBroadcastContent": "none",
+        "publishTime": "2019-04-02T20:47:37Z"
+      }
+    },
+    {
+      "kind": "youtube#searchResult",
+      "etag": "eMbg2CwNKTgKsRGQWS4rrI9TXVk",
+      "id": {
+        "kind": "youtube#video",
+        "videoId": "S28MH_84nt8"
+      },
+      "snippet": {
+        "publishedAt": "2019-08-27T20:48:46Z",
+        "channelId": "UCVMWWQ985A_-SESZUy_SsVQ",
+        "title": "Capital Smart City || Development Update || Aug 23, 2019",
+        "description": "",
+        "thumbnails": {
+          "default": {
+            "url": "https://i.ytimg.com/vi/S28MH_84nt8/default.jpg",
+            "width": 120,
+            "height": 90
+          },
+          "medium": {
+            "url": "https://i.ytimg.com/vi/S28MH_84nt8/mqdefault.jpg",
+            "width": 320,
+            "height": 180
+          },
+          "high": {
+            "url": "https://i.ytimg.com/vi/S28MH_84nt8/hqdefault.jpg",
+            "width": 480,
+            "height": 360
+          }
+        },
+        "channelTitle": "Realtor Islamabad",
+        "liveBroadcastContent": "none",
+        "publishTime": "2019-08-27T20:48:46Z"
+      }
+    },
+    {
+      "kind": "youtube#searchResult",
+      "etag": "YPtfFcpEky_vJCzYNF5UmCJVWPQ",
+      "id": {
+        "kind": "youtube#video",
+        "videoId": "iLSxHZN6gSk"
+      },
+      "snippet": {
+        "publishedAt": "2019-01-31T00:21:31Z",
+        "channelId": "UCVMWWQ985A_-SESZUy_SsVQ",
+        "title": "Capital Smart City (CSCI) - Recent Development Updates, Carpeted Roads.",
+        "description": "Courtesy: RBS.",
+        "thumbnails": {
+          "default": {
+            "url": "https://i.ytimg.com/vi/iLSxHZN6gSk/default.jpg",
+            "width": 120,
+            "height": 90
+          },
+          "medium": {
+            "url": "https://i.ytimg.com/vi/iLSxHZN6gSk/mqdefault.jpg",
+            "width": 320,
+            "height": 180
+          },
+          "high": {
+            "url": "https://i.ytimg.com/vi/iLSxHZN6gSk/hqdefault.jpg",
+            "width": 480,
+            "height": 360
+          }
+        },
+        "channelTitle": "Realtor Islamabad",
+        "liveBroadcastContent": "none",
+        "publishTime": "2019-01-31T00:21:31Z"
+      }
+    },
+    {
+      "kind": "youtube#searchResult",
+      "etag": "ygUU0nuVgTMXl8ZyGKsBVNuvUvQ",
+      "id": {
+        "kind": "youtube#video",
+        "videoId": "iS_MdDW5r0U"
+      },
+      "snippet": {
+        "publishedAt": "2020-01-12T21:36:08Z",
+        "channelId": "UCVMWWQ985A_-SESZUy_SsVQ",
+        "title": "Capital Smart City || Expo Day-01",
+        "description": "FDHL arranged an Expo for all existing & new users on Jan 11th & 12th at Pak China Friendship Center. It was fun filled event for ...",
+        "thumbnails": {
+          "default": {
+            "url": "https://i.ytimg.com/vi/iS_MdDW5r0U/default.jpg",
+            "width": 120,
+            "height": 90
+          },
+          "medium": {
+            "url": "https://i.ytimg.com/vi/iS_MdDW5r0U/mqdefault.jpg",
+            "width": 320,
+            "height": 180
+          },
+          "high": {
+            "url": "https://i.ytimg.com/vi/iS_MdDW5r0U/hqdefault.jpg",
+            "width": 480,
+            "height": 360
+          }
+        },
+        "channelTitle": "Realtor Islamabad",
+        "liveBroadcastContent": "none",
+        "publishTime": "2020-01-12T21:36:08Z"
+      }
+    },
+    {
+      "kind": "youtube#searchResult",
+      "etag": "e8nxp10efyngQbvFj_idyw1v224",
+      "id": {
+        "kind": "youtube#video",
+        "videoId": "1fE8TwEYepg"
+      },
+      "snippet": {
+        "publishedAt": "2019-04-01T19:47:52Z",
+        "channelId": "UCVMWWQ985A_-SESZUy_SsVQ",
+        "title": "Capital Smart City - Development Status - March 25th 2019",
+        "description": "This video shows development happing at 3 Sites including General & Overseas Block. For more info, feel free to contact me on: ...",
+        "thumbnails": {
+          "default": {
+            "url": "https://i.ytimg.com/vi/1fE8TwEYepg/default.jpg",
+            "width": 120,
+            "height": 90
+          },
+          "medium": {
+            "url": "https://i.ytimg.com/vi/1fE8TwEYepg/mqdefault.jpg",
+            "width": 320,
+            "height": 180
+          },
+          "high": {
+            "url": "https://i.ytimg.com/vi/1fE8TwEYepg/hqdefault.jpg",
+            "width": 480,
+            "height": 360
+          }
+        },
+        "channelTitle": "Realtor Islamabad",
+        "liveBroadcastContent": "none",
+        "publishTime": "2019-04-01T19:47:52Z"
+      }
+    },
+    {
+      "kind": "youtube#searchResult",
+      "etag": "XEhMJ8AjG8PUEqwYwy7VkGEjnjo",
+      "id": {
+        "kind": "youtube#video",
+        "videoId": "8UUa3MPS4M8"
+      },
+      "snippet": {
+        "publishedAt": "2019-12-18T21:55:30Z",
+        "channelId": "UCVMWWQ985A_-SESZUy_SsVQ",
+        "title": "Capital Smart City || Smart Solid Waste Management Solution",
+        "description": "",
+        "thumbnails": {
+          "default": {
+            "url": "https://i.ytimg.com/vi/8UUa3MPS4M8/default.jpg",
+            "width": 120,
+            "height": 90
+          },
+          "medium": {
+            "url": "https://i.ytimg.com/vi/8UUa3MPS4M8/mqdefault.jpg",
+            "width": 320,
+            "height": 180
+          },
+          "high": {
+            "url": "https://i.ytimg.com/vi/8UUa3MPS4M8/hqdefault.jpg",
+            "width": 480,
+            "height": 360
+          }
+        },
+        "channelTitle": "Realtor Islamabad",
+        "liveBroadcastContent": "none",
+        "publishTime": "2019-12-18T21:55:30Z"
+      }
+    },
+    {
+      "kind": "youtube#searchResult",
+      "etag": "5uvVpF2aW2A5JcNzK9fO4IlY8i4",
+      "id": {
+        "kind": "youtube#video",
+        "videoId": "kfDwCszCOJs"
+      },
+      "snippet": {
+        "publishedAt": "2021-07-18T13:41:14Z",
+        "channelId": "UCVMWWQ985A_-SESZUy_SsVQ",
+        "title": "Capital Smart City, Project Overview - July 2021",
+        "description": "For details: AAGHAZ Marketing +92-300-6038600 +92-336-5371382 +92-332-1144999.",
+        "thumbnails": {
+          "default": {
+            "url": "https://i.ytimg.com/vi/kfDwCszCOJs/default.jpg",
+            "width": 120,
+            "height": 90
+          },
+          "medium": {
+            "url": "https://i.ytimg.com/vi/kfDwCszCOJs/mqdefault.jpg",
+            "width": 320,
+            "height": 180
+          },
+          "high": {
+            "url": "https://i.ytimg.com/vi/kfDwCszCOJs/hqdefault.jpg",
+            "width": 480,
+            "height": 360
+          }
+        },
+        "channelTitle": "Realtor Islamabad",
+        "liveBroadcastContent": "none",
+        "publishTime": "2021-07-18T13:41:14Z"
+      }
+    },
+    {
+      "kind": "youtube#searchResult",
+      "etag": "h1mE1O96riVJ3IgizMtJ9NdZkBA",
+      "id": {
+        "kind": "youtube#video",
+        "videoId": "ZfX-6gD6zMY"
+      },
+      "snippet": {
+        "publishedAt": "2019-06-02T22:14:29Z",
+        "channelId": "UCVMWWQ985A_-SESZUy_SsVQ",
+        "title": "Blue World City - Arial View of first Asphalt! 31. 05. 2019",
+        "description": "For bookings & info: 0336-5371382.",
+        "thumbnails": {
+          "default": {
+            "url": "https://i.ytimg.com/vi/ZfX-6gD6zMY/default.jpg",
+            "width": 120,
+            "height": 90
+          },
+          "medium": {
+            "url": "https://i.ytimg.com/vi/ZfX-6gD6zMY/mqdefault.jpg",
+            "width": 320,
+            "height": 180
+          },
+          "high": {
+            "url": "https://i.ytimg.com/vi/ZfX-6gD6zMY/hqdefault.jpg",
+            "width": 480,
+            "height": 360
+          }
+        },
+        "channelTitle": "Realtor Islamabad",
+        "liveBroadcastContent": "none",
+        "publishTime": "2019-06-02T22:14:29Z"
+      }
+    },
+    {
+      "kind": "youtube#searchResult",
+      "etag": "sQkB-kSJ4Q5bMY3AvMdB5ysS7zM",
+      "id": {
+        "kind": "youtube#video",
+        "videoId": "SaChq3T4HCA"
+      },
+      "snippet": {
+        "publishedAt": "2019-08-12T06:47:28Z",
+        "channelId": "UCVMWWQ985A_-SESZUy_SsVQ",
+        "title": "Arial View of #Capital Smart City || August 4th 2019",
+        "description": "Arial view of Capital Smart City, showing: - Entrance from Chakri Road and Access II (connecting Chakri Road to Site I & II through ...",
+        "thumbnails": {
+          "default": {
+            "url": "https://i.ytimg.com/vi/SaChq3T4HCA/default.jpg",
+            "width": 120,
+            "height": 90
+          },
+          "medium": {
+            "url": "https://i.ytimg.com/vi/SaChq3T4HCA/mqdefault.jpg",
+            "width": 320,
+            "height": 180
+          },
+          "high": {
+            "url": "https://i.ytimg.com/vi/SaChq3T4HCA/hqdefault.jpg",
+            "width": 480,
+            "height": 360
+          }
+        },
+        "channelTitle": "Realtor Islamabad",
+        "liveBroadcastContent": "none",
+        "publishTime": "2019-08-12T06:47:28Z"
+      }
+    },
+    {
+      "kind": "youtube#searchResult",
+      "etag": "B6j6ARwW6fAf3ApKJn8jFeTPgGQ",
+      "id": {
+        "kind": "youtube#video",
+        "videoId": "97zMmUiDMrs"
+      },
+      "snippet": {
+        "publishedAt": "2020-02-17T00:23:19Z",
+        "channelId": "UCVMWWQ985A_-SESZUy_SsVQ",
+        "title": "Blue World City || Development Update",
+        "description": "You can witness great pace development at site of Blue World City. It is one of best investment options with low cost on 4 Year ...",
+        "thumbnails": {
+          "default": {
+            "url": "https://i.ytimg.com/vi/97zMmUiDMrs/default.jpg",
+            "width": 120,
+            "height": 90
+          },
+          "medium": {
+            "url": "https://i.ytimg.com/vi/97zMmUiDMrs/mqdefault.jpg",
+            "width": 320,
+            "height": 180
+          },
+          "high": {
+            "url": "https://i.ytimg.com/vi/97zMmUiDMrs/hqdefault.jpg",
+            "width": 480,
+            "height": 360
+          }
+        },
+        "channelTitle": "Realtor Islamabad",
+        "liveBroadcastContent": "none",
+        "publishTime": "2020-02-17T00:23:19Z"
+      }
+    },
+    {
+      "kind": "youtube#searchResult",
+      "etag": "RHAVC3jhDeEGxIUuJ9BdN3G4yKI",
+      "id": {
+        "kind": "youtube#video",
+        "videoId": "q_ovFKH3Zqo"
+      },
+      "snippet": {
+        "publishedAt": "2019-03-26T20:46:54Z",
+        "channelId": "UCVMWWQ985A_-SESZUy_SsVQ",
+        "title": "Blue World City - Development Updates - March 26th 2019",
+        "description": "Development on site can be seen and we expect management to deliver project in 4-Year time frame. Planning Permission ...",
+        "thumbnails": {
+          "default": {
+            "url": "https://i.ytimg.com/vi/q_ovFKH3Zqo/default.jpg",
+            "width": 120,
+            "height": 90
+          },
+          "medium": {
+            "url": "https://i.ytimg.com/vi/q_ovFKH3Zqo/mqdefault.jpg",
+            "width": 320,
+            "height": 180
+          },
+          "high": {
+            "url": "https://i.ytimg.com/vi/q_ovFKH3Zqo/hqdefault.jpg",
+            "width": 480,
+            "height": 360
+          }
+        },
+        "channelTitle": "Realtor Islamabad",
+        "liveBroadcastContent": "none",
+        "publishTime": "2019-03-26T20:46:54Z"
+      }
+    },
+    {
+      "kind": "youtube#searchResult",
+      "etag": "t-1uCGZIk2xZL8XttIS0AOxsstE",
+      "id": {
+        "kind": "youtube#video",
+        "videoId": "JlviogxYM4Y"
+      },
+      "snippet": {
+        "publishedAt": "2019-04-01T17:28:11Z",
+        "channelId": "UCVMWWQ985A_-SESZUy_SsVQ",
+        "title": "Thank You &quot;SUBSCRIBERS&quot;",
+        "description": "",
+        "thumbnails": {
+          "default": {
+            "url": "https://i.ytimg.com/vi/JlviogxYM4Y/default.jpg",
+            "width": 120,
+            "height": 90
+          },
+          "medium": {
+            "url": "https://i.ytimg.com/vi/JlviogxYM4Y/mqdefault.jpg",
+            "width": 320,
+            "height": 180
+          },
+          "high": {
+            "url": "https://i.ytimg.com/vi/JlviogxYM4Y/hqdefault.jpg",
+            "width": 480,
+            "height": 360
+          }
+        },
+        "channelTitle": "Realtor Islamabad",
+        "liveBroadcastContent": "none",
+        "publishTime": "2019-04-01T17:28:11Z"
+      }
+    },
+    {
+      "kind": "youtube#searchResult",
+      "etag": "ZqvJEufMj47yfLWi516ElYhcFS0",
+      "id": {
+        "kind": "youtube#video",
+        "videoId": "HQ-oQ9Ob3j0"
+      },
+      "snippet": {
+        "publishedAt": "2019-04-03T18:11:19Z",
+        "channelId": "UCVMWWQ985A_-SESZUy_SsVQ",
+        "title": "Blue World City - Development Update - April 3rd 2019 (Part 2)",
+        "description": "For info & bookings: 0336-5371382.",
+        "thumbnails": {
+          "default": {
+            "url": "https://i.ytimg.com/vi/HQ-oQ9Ob3j0/default.jpg",
+            "width": 120,
+            "height": 90
+          },
+          "medium": {
+            "url": "https://i.ytimg.com/vi/HQ-oQ9Ob3j0/mqdefault.jpg",
+            "width": 320,
+            "height": 180
+          },
+          "high": {
+            "url": "https://i.ytimg.com/vi/HQ-oQ9Ob3j0/hqdefault.jpg",
+            "width": 480,
+            "height": 360
+          }
+        },
+        "channelTitle": "Realtor Islamabad",
+        "liveBroadcastContent": "none",
+        "publishTime": "2019-04-03T18:11:19Z"
+      }
+    },
+    {
+      "kind": "youtube#searchResult",
+      "etag": "GjyaU5zsVbt11SunuboejLp2UE8",
+      "id": {
+        "kind": "youtube#video",
+        "videoId": "rUzHqpYMpCA"
+      },
+      "snippet": {
+        "publishedAt": "2019-09-03T07:27:53Z",
+        "channelId": "UCVMWWQ985A_-SESZUy_SsVQ",
+        "title": "Capital Smart City || Arial View || Aug 31, 2019",
+        "description": "",
+        "thumbnails": {
+          "default": {
+            "url": "https://i.ytimg.com/vi/rUzHqpYMpCA/default.jpg",
+            "width": 120,
+            "height": 90
+          },
+          "medium": {
+            "url": "https://i.ytimg.com/vi/rUzHqpYMpCA/mqdefault.jpg",
+            "width": 320,
+            "height": 180
+          },
+          "high": {
+            "url": "https://i.ytimg.com/vi/rUzHqpYMpCA/hqdefault.jpg",
+            "width": 480,
+            "height": 360
+          }
+        },
+        "channelTitle": "Realtor Islamabad",
+        "liveBroadcastContent": "none",
+        "publishTime": "2019-09-03T07:27:53Z"
+      }
+    },
+    {
+      "kind": "youtube#searchResult",
+      "etag": "dR29XMXY56VOhwbg-HAla6vawX8",
+      "id": {
+        "kind": "youtube#video",
+        "videoId": "gOorA1nP0cA"
+      },
+      "snippet": {
+        "publishedAt": "2020-09-21T13:01:06Z",
+        "channelId": "UCVMWWQ985A_-SESZUy_SsVQ",
+        "title": "Capital Smart City || Development Update || Sep 2020",
+        "description": "",
+        "thumbnails": {
+          "default": {
+            "url": "https://i.ytimg.com/vi/gOorA1nP0cA/default.jpg",
+            "width": 120,
+            "height": 90
+          },
+          "medium": {
+            "url": "https://i.ytimg.com/vi/gOorA1nP0cA/mqdefault.jpg",
+            "width": 320,
+            "height": 180
+          },
+          "high": {
+            "url": "https://i.ytimg.com/vi/gOorA1nP0cA/hqdefault.jpg",
+            "width": 480,
+            "height": 360
+          }
+        },
+        "channelTitle": "Realtor Islamabad",
+        "liveBroadcastContent": "none",
+        "publishTime": "2020-09-21T13:01:06Z"
+      }
+    },
+    {
+      "kind": "youtube#searchResult",
+      "etag": "zHrCni-uw6vE0le5gJhe4skggP8",
+      "id": {
+        "kind": "youtube#video",
+        "videoId": "4n17KTvpoXs"
+      },
+      "snippet": {
+        "publishedAt": "2018-12-05T19:49:28Z",
+        "channelId": "UCVMWWQ985A_-SESZUy_SsVQ",
+        "title": "MPCHS B-17 &amp; Faisal Margala City, Arial View - November 2018",
+        "description": "MPCHS B-17 was initially launched backed in 2003-2004 with Blocks A, B & C as CDA Approved project. Later various blocks ...",
+        "thumbnails": {
+          "default": {
+            "url": "https://i.ytimg.com/vi/4n17KTvpoXs/default.jpg",
+            "width": 120,
+            "height": 90
+          },
+          "medium": {
+            "url": "https://i.ytimg.com/vi/4n17KTvpoXs/mqdefault.jpg",
+            "width": 320,
+            "height": 180
+          },
+          "high": {
+            "url": "https://i.ytimg.com/vi/4n17KTvpoXs/hqdefault.jpg",
+            "width": 480,
+            "height": 360
+          }
+        },
+        "channelTitle": "Realtor Islamabad",
+        "liveBroadcastContent": "none",
+        "publishTime": "2018-12-05T19:49:28Z"
+      }
+    },
+    {
+      "kind": "youtube#searchResult",
+      "etag": "68Voa0vi58HRZCZxYMr8z1Nuhuc",
+      "id": {
+        "kind": "youtube#video",
+        "videoId": "NXntnIr38vw"
+      },
+      "snippet": {
+        "publishedAt": "2019-10-01T23:30:05Z",
+        "channelId": "UCVMWWQ985A_-SESZUy_SsVQ",
+        "title": "Capital Smart City || Ground Breaking &quot;Overseas Block D&quot;",
+        "description": "Ground breaking ceremony of Block D, Overseas Block held on 30th September at site of Capital Smart City. Massive ...",
+        "thumbnails": {
+          "default": {
+            "url": "https://i.ytimg.com/vi/NXntnIr38vw/default.jpg",
+            "width": 120,
+            "height": 90
+          },
+          "medium": {
+            "url": "https://i.ytimg.com/vi/NXntnIr38vw/mqdefault.jpg",
+            "width": 320,
+            "height": 180
+          },
+          "high": {
+            "url": "https://i.ytimg.com/vi/NXntnIr38vw/hqdefault.jpg",
+            "width": 480,
+            "height": 360
+          }
+        },
+        "channelTitle": "Realtor Islamabad",
+        "liveBroadcastContent": "none",
+        "publishTime": "2019-10-01T23:30:05Z"
+      }
+    },
+    {
+      "kind": "youtube#searchResult",
+      "etag": "QcguiyIjg57Fd7eRI63NUzqorDA",
+      "id": {
+        "kind": "youtube#video",
+        "videoId": "4TzEQ9tqybU"
+      },
+      "snippet": {
+        "publishedAt": "2019-07-18T22:23:24Z",
+        "channelId": "UCVMWWQ985A_-SESZUy_SsVQ",
+        "title": "CAPITAL SMART CITY || SURBANA JURONG VISIT",
+        "description": "For any info or booking please contact: Smart Investments 0336-5371382.",
+        "thumbnails": {
+          "default": {
+            "url": "https://i.ytimg.com/vi/4TzEQ9tqybU/default.jpg",
+            "width": 120,
+            "height": 90
+          },
+          "medium": {
+            "url": "https://i.ytimg.com/vi/4TzEQ9tqybU/mqdefault.jpg",
+            "width": 320,
+            "height": 180
+          },
+          "high": {
+            "url": "https://i.ytimg.com/vi/4TzEQ9tqybU/hqdefault.jpg",
+            "width": 480,
+            "height": 360
+          }
+        },
+        "channelTitle": "Realtor Islamabad",
+        "liveBroadcastContent": "none",
+        "publishTime": "2019-07-18T22:23:24Z"
+      }
+    },
+    {
+      "kind": "youtube#searchResult",
+      "etag": "eFFLQRyx5N0UBgs5xxkZFkUCBzk",
+      "id": {
+        "kind": "youtube#video",
+        "videoId": "TWKMQGivbX4"
+      },
+      "snippet": {
+        "publishedAt": "2022-12-27T14:20:19Z",
+        "channelId": "UCVMWWQ985A_-SESZUy_SsVQ",
+        "title": "Sector 5 &amp; 6 Development Update @ Blue World City",
+        "description": "",
+        "thumbnails": {
+          "default": {
+            "url": "https://i.ytimg.com/vi/TWKMQGivbX4/default.jpg",
+            "width": 120,
+            "height": 90
+          },
+          "medium": {
+            "url": "https://i.ytimg.com/vi/TWKMQGivbX4/mqdefault.jpg",
+            "width": 320,
+            "height": 180
+          },
+          "high": {
+            "url": "https://i.ytimg.com/vi/TWKMQGivbX4/hqdefault.jpg",
+            "width": 480,
+            "height": 360
+          }
+        },
+        "channelTitle": "Realtor Islamabad",
+        "liveBroadcastContent": "none",
+        "publishTime": "2022-12-27T14:20:19Z"
+      }
+    },
+    {
+      "kind": "youtube#searchResult",
+      "etag": "Pqle0qG1EwPsp53ADgVqGoK5bXc",
+      "id": {
+        "kind": "youtube#video",
+        "videoId": "5dFw-DZlI9g"
+      },
+      "snippet": {
+        "publishedAt": "2019-04-03T18:06:43Z",
+        "channelId": "UCVMWWQ985A_-SESZUy_SsVQ",
+        "title": "Blue World City - Development Update - April 3rd 2019 (Part 1)",
+        "description": "For info & bookings: 0336-5371382.",
+        "thumbnails": {
+          "default": {
+            "url": "https://i.ytimg.com/vi/5dFw-DZlI9g/default.jpg",
+            "width": 120,
+            "height": 90
+          },
+          "medium": {
+            "url": "https://i.ytimg.com/vi/5dFw-DZlI9g/mqdefault.jpg",
+            "width": 320,
+            "height": 180
+          },
+          "high": {
+            "url": "https://i.ytimg.com/vi/5dFw-DZlI9g/hqdefault.jpg",
+            "width": 480,
+            "height": 360
+          }
+        },
+        "channelTitle": "Realtor Islamabad",
+        "liveBroadcastContent": "none",
+        "publishTime": "2019-04-03T18:06:43Z"
+      }
+    },
+    {
+      "kind": "youtube#searchResult",
+      "etag": "RW5ot883Xn39ELjsyvijvcIz8lw",
+      "id": {
+        "kind": "youtube#video",
+        "videoId": "fGEJVKikkuc"
+      },
+      "snippet": {
+        "publishedAt": "2019-06-02T22:33:27Z",
+        "channelId": "UCVMWWQ985A_-SESZUy_SsVQ",
+        "title": "Blue World City - Development Status (31. 05. 2019)",
+        "description": "",
+        "thumbnails": {
+          "default": {
+            "url": "https://i.ytimg.com/vi/fGEJVKikkuc/default.jpg",
+            "width": 120,
+            "height": 90
+          },
+          "medium": {
+            "url": "https://i.ytimg.com/vi/fGEJVKikkuc/mqdefault.jpg",
+            "width": 320,
+            "height": 180
+          },
+          "high": {
+            "url": "https://i.ytimg.com/vi/fGEJVKikkuc/hqdefault.jpg",
+            "width": 480,
+            "height": 360
+          }
+        },
+        "channelTitle": "Realtor Islamabad",
+        "liveBroadcastContent": "none",
+        "publishTime": "2019-06-02T22:33:27Z"
+      }
+    },
+    {
+      "kind": "youtube#searchResult",
+      "etag": "67AYYvueF5ZqO3MIkCGYYIJfJL4",
+      "id": {
+        "kind": "youtube#video",
+        "videoId": "89cRDpfcvDA"
+      },
+      "snippet": {
+        "publishedAt": "2018-12-01T16:10:11Z",
+        "channelId": "UCVMWWQ985A_-SESZUy_SsVQ",
+        "title": "Capital Smart City Islamaad - Development Update - November 29, 2019",
+        "description": "Alhamdulillah, development is happening at steady pace at Capital Smart City Islamabad. Site situation in April 2018 & November ...",
+        "thumbnails": {
+          "default": {
+            "url": "https://i.ytimg.com/vi/89cRDpfcvDA/default.jpg",
+            "width": 120,
+            "height": 90
+          },
+          "medium": {
+            "url": "https://i.ytimg.com/vi/89cRDpfcvDA/mqdefault.jpg",
+            "width": 320,
+            "height": 180
+          },
+          "high": {
+            "url": "https://i.ytimg.com/vi/89cRDpfcvDA/hqdefault.jpg",
+            "width": 480,
+            "height": 360
+          }
+        },
+        "channelTitle": "Realtor Islamabad",
+        "liveBroadcastContent": "none",
+        "publishTime": "2018-12-01T16:10:11Z"
+      }
+    },
+    {
+      "kind": "youtube#searchResult",
+      "etag": "8IJvL1YIc82z2fj8tktx8PPqV_U",
+      "id": {
+        "kind": "youtube#video",
+        "videoId": "e1C8sLc-abk"
+      },
+      "snippet": {
+        "publishedAt": "2021-08-23T19:08:41Z",
+        "channelId": "UCVMWWQ985A_-SESZUy_SsVQ",
+        "title": "Lahore Smart City Commercials || Launched",
+        "description": "",
+        "thumbnails": {
+          "default": {
+            "url": "https://i.ytimg.com/vi/e1C8sLc-abk/default.jpg",
+            "width": 120,
+            "height": 90
+          },
+          "medium": {
+            "url": "https://i.ytimg.com/vi/e1C8sLc-abk/mqdefault.jpg",
+            "width": 320,
+            "height": 180
+          },
+          "high": {
+            "url": "https://i.ytimg.com/vi/e1C8sLc-abk/hqdefault.jpg",
+            "width": 480,
+            "height": 360
+          }
+        },
+        "channelTitle": "Realtor Islamabad",
+        "liveBroadcastContent": "none",
+        "publishTime": "2021-08-23T19:08:41Z"
+      }
+    },
+    {
+      "kind": "youtube#searchResult",
+      "etag": "9vBpY_Wvw76S9dLy2zakp7iPIjM",
+      "id": {
+        "kind": "youtube#video",
+        "videoId": "OLY1QaOvZ70"
+      },
+      "snippet": {
+        "publishedAt": "2022-06-14T12:47:53Z",
+        "channelId": "UCVMWWQ985A_-SESZUy_SsVQ",
+        "title": "How Blue World City is Progressing Mash Allah!",
+        "description": "",
+        "thumbnails": {
+          "default": {
+            "url": "https://i.ytimg.com/vi/OLY1QaOvZ70/default.jpg",
+            "width": 120,
+            "height": 90
+          },
+          "medium": {
+            "url": "https://i.ytimg.com/vi/OLY1QaOvZ70/mqdefault.jpg",
+            "width": 320,
+            "height": 180
+          },
+          "high": {
+            "url": "https://i.ytimg.com/vi/OLY1QaOvZ70/hqdefault.jpg",
+            "width": 480,
+            "height": 360
+          }
+        },
+        "channelTitle": "Realtor Islamabad",
+        "liveBroadcastContent": "none",
+        "publishTime": "2022-06-14T12:47:53Z"
+      }
+    },
+    {
+      "kind": "youtube#searchResult",
+      "etag": "Zvnxt7zLJN0uWfN7aJGAW8FNITg",
+      "id": {
+        "kind": "youtube#video",
+        "videoId": "D4CQuQhGaP4"
+      },
+      "snippet": {
+        "publishedAt": "2019-03-07T20:38:24Z",
+        "channelId": "UCVMWWQ985A_-SESZUy_SsVQ",
+        "title": "Blue World City - Site View from Main Chakri Road - March 6th 2019",
+        "description": "This video is captured while traveling on Chakri Road and BWC on right. Development is happening at steady pace. Today BWC ...",
+        "thumbnails": {
+          "default": {
+            "url": "https://i.ytimg.com/vi/D4CQuQhGaP4/default.jpg",
+            "width": 120,
+            "height": 90
+          },
+          "medium": {
+            "url": "https://i.ytimg.com/vi/D4CQuQhGaP4/mqdefault.jpg",
+            "width": 320,
+            "height": 180
+          },
+          "high": {
+            "url": "https://i.ytimg.com/vi/D4CQuQhGaP4/hqdefault.jpg",
+            "width": 480,
+            "height": 360
+          }
+        },
+        "channelTitle": "Realtor Islamabad",
+        "liveBroadcastContent": "none",
+        "publishTime": "2019-03-07T20:38:24Z"
+      }
+    },
+    {
+      "kind": "youtube#searchResult",
+      "etag": "xKyEeLM8uvF8yhUYc7A0IKl0aeA",
+      "id": {
+        "kind": "youtube#video",
+        "videoId": "oEFVSIwN2lw"
+      },
+      "snippet": {
+        "publishedAt": "2019-05-12T20:20:54Z",
+        "channelId": "UCVMWWQ985A_-SESZUy_SsVQ",
+        "title": "Capital Smart City - Development Updates (May 11, 2019)",
+        "description": "",
+        "thumbnails": {
+          "default": {
+            "url": "https://i.ytimg.com/vi/oEFVSIwN2lw/default.jpg",
+            "width": 120,
+            "height": 90
+          },
+          "medium": {
+            "url": "https://i.ytimg.com/vi/oEFVSIwN2lw/mqdefault.jpg",
+            "width": 320,
+            "height": 180
+          },
+          "high": {
+            "url": "https://i.ytimg.com/vi/oEFVSIwN2lw/hqdefault.jpg",
+            "width": 480,
+            "height": 360
+          }
+        },
+        "channelTitle": "Realtor Islamabad",
+        "liveBroadcastContent": "none",
+        "publishTime": "2019-05-12T20:20:54Z"
+      }
+    },
+    {
+      "kind": "youtube#searchResult",
+      "etag": "ZUlw1L9pAXupu_uj3d5ePx93E6c",
+      "id": {
+        "kind": "youtube#video",
+        "videoId": "rxqMZq8W1_Q"
+      },
+      "snippet": {
+        "publishedAt": "2020-04-22T07:09:22Z",
+        "channelId": "UCVMWWQ985A_-SESZUy_SsVQ",
+        "title": "Blue World City || Arial View of Land &amp; Development",
+        "description": "For info & bookings: 0336-5371382 0300-6038600.",
+        "thumbnails": {
+          "default": {
+            "url": "https://i.ytimg.com/vi/rxqMZq8W1_Q/default.jpg",
+            "width": 120,
+            "height": 90
+          },
+          "medium": {
+            "url": "https://i.ytimg.com/vi/rxqMZq8W1_Q/mqdefault.jpg",
+            "width": 320,
+            "height": 180
+          },
+          "high": {
+            "url": "https://i.ytimg.com/vi/rxqMZq8W1_Q/hqdefault.jpg",
+            "width": 480,
+            "height": 360
+          }
+        },
+        "channelTitle": "Realtor Islamabad",
+        "liveBroadcastContent": "none",
+        "publishTime": "2020-04-22T07:09:22Z"
+      }
+    },
+    {
+      "kind": "youtube#searchResult",
+      "etag": "sFZHiQmPF9wYGfg7iAN0urKip9U",
+      "id": {
+        "kind": "youtube#video",
+        "videoId": "Mh-FXv62pas"
+      },
+      "snippet": {
+        "publishedAt": "2020-05-02T22:54:55Z",
+        "channelId": "UCVMWWQ985A_-SESZUy_SsVQ",
+        "title": "Blue World City || Arial View of Development &amp; Land in Possession",
+        "description": "This video is especially for those customers and prospects, who ask for land and Development status. I hope all existing ...",
+        "thumbnails": {
+          "default": {
+            "url": "https://i.ytimg.com/vi/Mh-FXv62pas/default.jpg",
+            "width": 120,
+            "height": 90
+          },
+          "medium": {
+            "url": "https://i.ytimg.com/vi/Mh-FXv62pas/mqdefault.jpg",
+            "width": 320,
+            "height": 180
+          },
+          "high": {
+            "url": "https://i.ytimg.com/vi/Mh-FXv62pas/hqdefault.jpg",
+            "width": 480,
+            "height": 360
+          }
+        },
+        "channelTitle": "Realtor Islamabad",
+        "liveBroadcastContent": "none",
+        "publishTime": "2020-05-02T22:54:55Z"
+      }
+    }
+  ]
+}

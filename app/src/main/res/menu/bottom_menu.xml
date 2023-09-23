@@ -1,0 +1,32 @@
+<?xml version="1.0" encoding="utf-8"?>
+<menu xmlns:android="http://schemas.android.com/apk/res/android"
+    xmlns:app="http://schemas.android.com/apk/res-auto">
+
+    <item
+        android:id="@+id/nav_home"
+        android:title="Home"
+        android:icon="@drawable/baseline_home_24"
+        app:showAsAction="ifRoom"/>
+    <item
+        android:id="@+id/nav_shorts"
+        android:title="Shorts"
+        android:icon="@drawable/shorts"
+        app:showAsAction="ifRoom"/>
+    <item
+        android:id="@+id/nav_publish"
+        android:title=""
+        android:icon="@drawable/baseline_add_circle_outline_48"
+        app:showAsAction="ifRoom"/>
+    <item
+        android:id="@+id/nav_subscriptions"
+        android:title="Subscriptions"
+        android:icon="@drawable/outline_subscriptions_24"
+        app:showAsAction="ifRoom"/>
+    <item
+        android:id="@+id/nav_library"
+        android:title="Library"
+        android:icon="@drawable/outline_video_library_24"
+        app:showAsAction="ifRoom"/>
+
+
+</menu>
